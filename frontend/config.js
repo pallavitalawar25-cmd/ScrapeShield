@@ -3,6 +3,6 @@
 // frontend — the Flask backend is the only thing that talks to Bright Data.
 
 window.SCRAPESHIELD_CONFIG = {
-  API_BASE_URL: "http://127.0.0.1:5000",
+  API_BASE_URL: "https://scrapeshield-5s7r.onrender.com/",
   COLLECTION_ID: "j_mt557r17c8k753mgr", // current test collection
 };
